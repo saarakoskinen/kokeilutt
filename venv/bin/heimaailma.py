@@ -1,10 +1,6 @@
 
 import math
 math.pi
-print("hei, maailma")
-print('hei saara!')
-kayttaja=input('anna nimesi ')
-print("hauska tavata "+kayttaja+"!")
 
 ympyra_str=input('anna ympyrän säde')
 ympyra=float(ympyra_str)
